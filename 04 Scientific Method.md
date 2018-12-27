@@ -1,4 +1,4 @@
-# Scientific Methodd
+# Scientific Method
 
 ## Intro
 
